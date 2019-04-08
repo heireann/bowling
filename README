@@ -21,6 +21,6 @@
 
 Classes adivce:
 
-    Add your implementation of bowling game in "BowlingGame.h"
+    In "BowlingGame.h" you can find an example implementation of a bowling game.
 
-    Add your test cases to "BowlingTDDProject.cpp"
+    In "BowlingTDDProject.cpp" you can find tests implementation for the mentioned class.
